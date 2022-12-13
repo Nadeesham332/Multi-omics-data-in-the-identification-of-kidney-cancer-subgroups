@@ -1,0 +1,10 @@
+RPPA (n=0) TCGA Hub
+
+TCGA kidney renal papillary cell carcinoma (KIRP) protein expression by reverse phase protein array (RPPA). The data was generated and processed at the MD Anderson Cancer Center TCGA proteome characterization center RPPA core. Level 3 interpreted level data was downloaded from TCGA data coordination center.Data normalization from the MDACC RPPA core: under section How are the RPPA data processed.
+
+Naming...
+
+Subtype;
+	0: KIRC
+	1: KIRP
+	2: KICH
